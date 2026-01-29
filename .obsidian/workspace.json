@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "548f95097b09c450",
+    "type": "split",
+    "children": [
+      {
+        "id": "98f26c48ba94bf2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c56b0c57ec8d8638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "设计模式/C++架构二次分析学习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C++架构二次分析学习"
+            }
+          },
+          {
+            "id": "f8edc8c0a1443709",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "设计模式/C++架构二次分析学习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C++架构二次分析学习"
+            }
+          },
+          {
+            "id": "a9333c1bac3b5477",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "设计模式/c++程序完善skill.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "c++程序完善skill"
+            }
+          },
+          {
+            "id": "1d046a053ce0b033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "设计模式/c++ review skill.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "c++ review skill"
+            }
+          },
+          {
+            "id": "751d2b43ea9c8188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "架构评审表.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "架构评审表"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f81d940492c19eff",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c6ff99af2e57582",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a8d0e8243b570dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f918cf42aa68ae4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8fd238ab39415d07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd9d0fa658594acb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3f8740b9759330d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "459831c1358a5455",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git相关的知识.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "git相关的知识 的反向链接列表"
+            }
+          },
+          {
+            "id": "eb5b9912823e75e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git相关的知识.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "git相关的知识 的出链列表"
+            }
+          },
+          {
+            "id": "baaff281f8f50d4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "53d38453b8ec34bb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "459036cd752b4b83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git相关的知识.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "git相关的知识 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "751d2b43ea9c8188",
+  "lastOpenFiles": [
+    "设计模式/c++ review skill.md",
+    "架构评审表.md",
+    "设计模式/c++程序完善skill.md",
+    "设计模式/C++架构二次分析学习.md",
+    "设计模式/c++最终汇报.md",
+    "设计模式/c++架构转换.md",
+    "设计模式/设计一个项目时的架构.md",
+    "机器人分层理解.md",
+    "x总结.md",
+    "ros复习.md",
+    "retargeting问题.md",
+    "python转换成ros1需要做的改变.md",
+    "git相关的知识.md",
+    "cmake学习.md",
+    "指纹浏览器设置.md",
+    "指令学习.md",
+    "设计模式/设计模式学习.md",
+    "设计模式",
+    "内存泄漏和进程管理问题严重.md",
+    "欢迎.md"
+  ]
+}
