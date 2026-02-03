@@ -69,16 +69,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "架构评审表.md",
+                "file": "机器人分层理解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "架构评审表"
+              "title": "机器人分层理解"
+            }
+          },
+          {
+            "id": "e94851b852aec6c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "设计模式/C++架构二次分析学习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C++架构二次分析学习"
+            }
+          },
+          {
+            "id": "8f99263ff121694f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "设计模式/c++程序完善skill.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "c++程序完善skill"
+            }
+          },
+          {
+            "id": "85f003888722f6ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "任务分析流程/当前需要的知识.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "当前需要的知识"
+            }
+          },
+          {
+            "id": "bb6b17edc5013a79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "设计模式/C++架构二次分析学习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C++架构二次分析学习"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -240,22 +296,28 @@
       "bases:新建数据库": false
     }
   },
-  "active": "751d2b43ea9c8188",
+  "active": "8f99263ff121694f",
   "lastOpenFiles": [
     "设计模式/c++ review skill.md",
-    "架构评审表.md",
     "设计模式/c++程序完善skill.md",
     "设计模式/C++架构二次分析学习.md",
-    "设计模式/c++最终汇报.md",
     "设计模式/c++架构转换.md",
-    "设计模式/设计一个项目时的架构.md",
+    "任务分析流程/当前需要的知识.md",
+    "git相关的知识.md",
+    "cmake学习.md",
+    "claude提示词浓缩/错误提取不断学习md.md",
+    "claude提示词浓缩",
+    "设计模式/现在的架构根据用户的使用方式的问题.md",
+    "任务分析流程/不同任务的处理方式skill.md",
+    "任务分析流程",
+    "设计模式/c++最终汇报.md",
     "机器人分层理解.md",
+    "架构评审表.md",
+    "设计模式/设计一个项目时的架构.md",
     "x总结.md",
     "ros复习.md",
     "retargeting问题.md",
     "python转换成ros1需要做的改变.md",
-    "git相关的知识.md",
-    "cmake学习.md",
     "指纹浏览器设置.md",
     "指令学习.md",
     "设计模式/设计模式学习.md",
