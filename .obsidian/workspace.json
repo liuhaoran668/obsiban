@@ -176,6 +176,20 @@
             }
           },
           {
+            "id": "6ae312dc7b69e408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "语言特性学习/c++和python学习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "c++和python学习"
+            }
+          },
+          {
             "id": "bb6b17edc5013a79",
             "type": "leaf",
             "state": {
@@ -190,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -352,15 +366,17 @@
       "bases:新建数据库": false
     }
   },
-  "active": "c8919b0aa640f7e8",
+  "active": "6ae312dc7b69e408",
   "lastOpenFiles": [
+    "claude提示词浓缩/常规review注意事项（针对ai生成的）.md",
+    "语言特性学习/c++和python学习.md",
+    "语言特性学习",
     "openclaw-setup-guide.md",
     "claude提示词浓缩/c++ review skill.md",
     "任务：c++sdk分析/C++架构二次分析学习.md",
     "任务：c++sdk分析/c++ sdk问题（c++的一些特性）.md",
     "claude提示词浓缩/ai知识学习.md",
     "claude提示词浓缩/错误提取不断学习md.md",
-    "claude提示词浓缩/常规review注意事项（针对ai生成的）.md",
     "claude提示词浓缩/openclaw玩耍.md",
     "design/references/refactoring-guide.md",
     "design/references/pattern-catalog.md",
@@ -384,7 +400,6 @@
     "ros复习.md",
     "设计模式/python转换成ros1需要做的改变.md",
     "git学习/git相关的知识.md",
-    "总体学习/cmake学习.md",
     "总体学习",
     "claude提示词浓缩",
     "任务分析流程",
